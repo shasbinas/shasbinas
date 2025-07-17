@@ -9,11 +9,11 @@
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shasbin-as&show_icons=true&theme=radical)
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=shasbin-as&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shasbinas&show_icons=true&theme=radical)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=shasbinas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shasbin-as&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shasbin-as&layout=compact&theme=blue-green)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shasbinas&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shasbinas&layout=compact&theme=blue-green)
 
 <!-- ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulvahabaa&theme=github-compact)-->
 
