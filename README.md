@@ -5,7 +5,7 @@
 
 ## 🔗 Links
 
-[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)]() [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:shasbinas1@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+9746998909) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shasbinas)
+[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)]() [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:shasbinas1@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+9746998909) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shasbinasdev)
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
@@ -140,4 +140,4 @@
 
 ## 🔗 Links
 
-[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)]() [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:shasbinas1@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+9746998909) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shasbinas)
+[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)]() [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:shasbinas1@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+9746998909) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shasbinasdev)
