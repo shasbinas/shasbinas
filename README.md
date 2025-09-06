@@ -6,6 +6,7 @@
 ## 🔗 Links
 
 [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)]() [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:shasbinas1@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+9746998909) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shasbinasdev)
+[![leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/shasbinas/)
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 
@@ -18,6 +19,13 @@
 <!-- ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulvahabaa&theme=github-compact)-->
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=abdulvahabaa&theme=discord)
+
+<div align="center">
+  <h3>👨‍💻 Leetcode Stats</h3>
+  <p>
+    <img src="https://leetcard.jacoblin.cool/shasbinas?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
+  </p>
+</div>
 
 # 🛠️ Tech Stack Skills
 
@@ -141,3 +149,4 @@
 ## 🔗 Links
 
 [![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)]() [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:shasbinas1@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+9746998909) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shasbinasdev)
+[![leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/shasbinas/)
