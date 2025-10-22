@@ -1,4 +1,4 @@
-<h1 align="center"><i>Hi there, I'm</i> <a href="https://www.linkedin.com/in/shasbinasdev/">Shasbin A S</a> <img src="animated/javascript.gif" height="40" /> </h1>
+<h1 align="center"><i>Hi there, I'm</i> <a href="https://www.linkedin.com/in/shasbinasdev/">Shasbin A S</a> </h1>
 
 <div align="center">
 
@@ -12,9 +12,9 @@
 
 ---
 
-<img src="image/banner shazz.jpg" width="100%" />
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+
+<img src="./images/Illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 - 💻 Full-Stack Developer (Node.js • Express • PostgreSQL • MongoDB)
 - 🚀 Passionate about modern web application development
@@ -24,42 +24,41 @@
 - 🤝 Open to collaborate on MERN or Node-based projects
 - 🎓 BCA Student | Tech Enthusiast
 
-📑 **Work Stats:**  
-![Projects](https://img.shields.io/badge/Projects-20-blue?logo=github)
-![Client Satisfaction](https://img.shields.io/badge/Client_Satisfied-90%25-brightgreen?logo=github)
 
 🤖 **Digital Stats:**  
-[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-1k+-blue?logo=linkedin)](https://www.linkedin.com/in/shasbinasdev)
+<!-- [![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-1k+-blue?logo=linkedin)](https://www.linkedin.com/in/shasbinasdev) -->
 [![GitHub Stars](https://img.shields.io/github/stars/shasbinas?style=flat-square&logo=github)](https://github.com/shasbinas)
 [![GitHub Followers](https://img.shields.io/github/followers/shasbinas?style=flat-square&logo=github)](https://github.com/shasbinas?tab=followers)
 [![Profile Views](https://visitcountpro.netlify.app/api?id=shasbinas&pretty=true)](https://visitcount.itsvg.in)
 
 ---
-
 <div align="center">
 <h2 align="center">🛠️ Tech Stack Skills</h2>
-
 <img src="svgs/HTML5.svg" height="40" /> &nbsp;
 <img src="svgs/CSS3.svg" height="40" /> &nbsp;
-<img src="svgs/logo-javascript.svg" height="40" /> &nbsp;
-<img src="svgs/logo-typescript.svg" height="40" /> &nbsp;
-<img src="svgs/logo-nodejs.svg" height="45" /> &nbsp;
-<img src="images/Express White.png" height="35" /> &nbsp;
-<img src="svgs/MongoDB.svg" height="45" /> &nbsp;
-<img src="svgs/PostgresSQL.svg" height="45" /> &nbsp;
-<img src="svgs/MySQL.svg" height="45" /> &nbsp;
-<img src="svgs/Docker.svg" height="50" /> &nbsp;
-<img src="svgs/AWS.svg" height="45" /> &nbsp;
-<img src="svgs/Git.svg" height="45" /> &nbsp;
-<img src="svgs/GitHub.svg" height="45" /> &nbsp;
-<img src="svgs/Postman.svg" height="45" /> &nbsp;
-<img src="svgs/Playwrite.svg" height="45" /> &nbsp;
-<img src="svgs/Jest.svg" height="45" /> &nbsp;
-<img src="svgs/Visual Studio Code (VS Code).svg" height="45" /> &nbsp;
-<img src="svgs/Figma.svg" height="45" /> &nbsp;
-<img src="svgs/Adobe Photoshop.svg" height="45" /> &nbsp;
-<img src="svgs/Adobe Premiere Pro.svg" height="45" />
+<img src="svgs/logo-javascript.svg" height="40" /> &nbsp; 
+<img src="svgs/logo-typescript.svg" height="40" style="margin-right:10px;" /> &nbsp; 
+<img src="images/react.png" height="40" style="margin-right:10px;" /> &nbsp; 
+<img src="svgs/next.js (2).svg" height="45" /> &nbsp; 
+<img src="svgs/logo-nodejs.svg" height="45" style="margin-right:10px;" /> &nbsp; 
+<img src="images/Express White.png" height="35" /> &nbsp; 
+<img src="svgs/Python.svg" height="45" /> &nbsp; 
+<img src="svgs/MongoDB.svg" height="45" /> &nbsp; 
+<img src="svgs/PostgresSQL.svg" height="45" /> &nbsp; 
+<img src="svgs/Sequelize.svg" height="45" /> &nbsp; 
+<img src="svgs/Playwrite.svg" height="45" /> &nbsp; 
+<img src="svgs/Jest.svg" height="45" /> &nbsp; 
+<img src="svgs/Git.svg" height="45" /> &nbsp; 
+<img src="svgs/GitHub.svg" height="45" /> &nbsp; 
+<img src="svgs/Docker.svg" height="50" /> &nbsp; 
+<img src="svgs/AWS.svg" height="45" /> &nbsp; 
+<img src="svgs/Powershell.svg" height="45" /> &nbsp; 
+<img src="svgs/Postman.svg" height="45" /> &nbsp; 
+<img src="svgs/Visual Studio Code (VS Code).svg" height="45" /> &nbsp; 
+<img src="svgs/Figma.svg" height="45" /> &nbsp; 
+
 </div>
+
 
 ---
 
