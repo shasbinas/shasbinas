@@ -3,6 +3,7 @@
 <div align="center">
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shasbinasdev)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://shasbinas.github.io/personal-website/)
 [![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)]()
 [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:shasbinas1@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+9746998909)
@@ -16,13 +17,13 @@
 
 <img src="./images/Illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-- 💻 Full-Stack Developer (Node.js • Express • PostgreSQL • MongoDB)
+- 💻 Full-Stack Developer (React • Node.js • Express • PostgreSQL • MongoDB)
 - 🚀 Passionate about modern web application development
 - 🌱 Currently exploring **DevOps & Cloud (Docker, AWS, Vercel)**
 - 🧩 Skilled in **REST API Design, Authentication (JWT), UI & UX**
 - 💬 Ask me about Web Development & Database Design
 - 🤝 Open to collaborate on MERN or Node-based projects
-- 🎓 BCA Student | Tech Enthusiast
+- 🎓 BCA (Online, 2025–2028) | Tech Enthusiast
 
 
 🤖 **Digital Stats:**  
