@@ -3,7 +3,7 @@
 <div align="center">
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shasbinasdev)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://shasbinas.github.io/personal-website/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)](https://www.shasbin.in/)
 [![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1lf2eQpjK10k9CFMpI7HCLGmskxRb3hdT/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:shasbinas1@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+9746998909)
