@@ -93,12 +93,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shasbinas&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
 <em><b>I love connecting with fellow developers</b> and tech enthusiasts!  
 Feel free to say <b>hi</b> — I'm always open to collaboration and learning :)</em>
