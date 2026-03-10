@@ -35,29 +35,40 @@
 ---
 <div align="center">
 <h2 align="center">🛠️ Tech Stack Skills</h2>
-<img src="svgs/HTML5.svg" height="40" /> &nbsp;
-<img src="svgs/CSS3.svg" height="40" /> &nbsp;
-<img src="svgs/logo-javascript.svg" height="40" /> &nbsp;
-<img src="svgs/logo-typescript.svg" height="40" /> &nbsp;
-<img src="images/react.png" height="40" /> &nbsp;
-<img src="svgs/NextJS.svg" height="40" /> &nbsp;
-<img src="svgs/logo-nodejs.svg" height="40" /> &nbsp;
-<img src="images/Express White.png" height="40" /> &nbsp;
-<img src="svgs/NestJS.svg" height="40" /> &nbsp;
-<img src="svgs/Python.svg" height="40" /> &nbsp;
-<img src="svgs/MongoDB.svg" height="40" /> &nbsp;
-<img src="svgs/PostgresSQL.svg" height="40" /> &nbsp;
-<img src="svgs/Sequelize.svg" height="40" /> &nbsp;
-<img src="svgs/Playwrite.svg" height="40" /> &nbsp;
-<img src="svgs/Jest.svg" height="40" /> &nbsp;
-<img src="svgs/Git.svg" height="40" /> &nbsp;
-<img src="svgs/GitHub.svg" height="40" /> &nbsp;
-<img src="svgs/Docker.svg" height="40" /> &nbsp;
-<img src="svgs/AWS.svg" height="40" /> &nbsp;
-<img src="svgs/Powershell.svg" height="40" /> &nbsp;
-<img src="svgs/Postman.svg" height="40" /> &nbsp;
-<img src="svgs/Visual Studio Code (VS Code).svg" height="40" /> &nbsp;
-<img src="svgs/Figma.svg" height="40" />
+<img src="svgs/HTML5.svg" height="40"/> &nbsp;
+<img src="svgs/CSS3.svg" height="40"/> &nbsp;
+<img src="svgs/logo-javascript.svg" height="40"/> &nbsp;
+<img src="svgs/logo-typescript.svg" height="40"/> &nbsp;
+
+<img src="images/react.png" height="40"/> &nbsp;
+<img src="svgs/NextJS.svg" height="40"/> &nbsp;
+
+<img src="svgs/logo-nodejs.svg" height="40"/> &nbsp;
+<img src="images/Express White.png" height="40"/> &nbsp;
+<img src="svgs/NestJS.svg" height="40"/> &nbsp;
+
+<img src="svgs/Python.svg" height="40"/> &nbsp;
+
+<img src="svgs/MongoDB.svg" height="40"/> &nbsp;
+<img src="svgs/PostgresSQL.svg" height="40"/> &nbsp;
+
+<img src="svgs/Sequelize.svg" height="40"/> &nbsp;
+
+<img src="svgs/Playwrite.svg" height="40"/> &nbsp;
+<img src="svgs/Jest.svg" height="40"/> &nbsp;
+
+<img src="svgs/Git.svg" height="40"/> &nbsp;
+<img src="svgs/GitHub.svg" height="40"/> &nbsp;
+
+<img src="svgs/Docker.svg" height="40"/> &nbsp;
+<img src="svgs/AWS.svg" height="40"/> &nbsp;
+
+<img src="svgs/Powershell.svg" height="40"/> &nbsp;
+<img src="svgs/Postman.svg" height="40"/> &nbsp;
+
+<img src="svgs/VSCode.svg" height="40"/> &nbsp;
+<img src="svgs/Figma.svg" height="40"/>
+
 
 </div>
 
